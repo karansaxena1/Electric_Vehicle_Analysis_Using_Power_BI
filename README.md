@@ -1,5 +1,4 @@
-# Electric Vehicle Analysis Using Power BI
-
+# ElectroDrive: Analysis for Electric Vehicles
 
 ![Screenshot 2024-11-19 221825](https://github.com/user-attachments/assets/cd3e661b-c5be-4cdb-b48d-8faa093e9d57)
 
